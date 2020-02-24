@@ -1,0 +1,1 @@
+# A simple example of how to launch Android application from scratch after process death
